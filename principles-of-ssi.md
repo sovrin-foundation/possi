@@ -49,3 +49,16 @@ An SSI ecosystem shall empower identity rights holders to protect the privacy of
 ### 12. Transparency
 
 An SSI ecosystem shall empower identity rights holders and all other stakeholders to easily access and verify information necessary to understand the incentives, rules, policies, and algorithms under which agents and other components of SSI ecosystems operate.
+
+
+
+*This document was developed by members of the global SSI community as convened by the [Sovrin Foundation](https://sovrin.org/) as a steward of these Principles.*
+
+*This work is licensed under [​Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)*
+
+*This document is maintained by the ​[Sovrin Foundation](https://sovrin.org/)​ and has been approved by the Sovrin Board of Trustees forinclusion in the Sovrin Utility Governance Framework and the Sovrin Ecosystem Governance Framework.
+*
+
+*We invite you to contribute any comments or suggestions to the version of the document maintained [here](https://github.com/sovrin-foundation/possi).*
+
+*If you are interested in participating in ongoing development of these Principles of SSI, please visit the [Sovrin Governance Framework Working Group ​Meeting Page​](https://docs.google.com/document/d/1aJskOztz8NP8tI-9eaKaaOypF0Fm__SCLKR-U8ptSII/)*
