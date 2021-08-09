@@ -1,10 +1,10 @@
-## The Principles of SSI
+# The Principles of SSI
 
 These foundational principles of SSI are intended for use by any digital identity ecosystem. Any organization is welcomed to incorporate these principles into its digital identity ecosystem governance framework provided they are included in their entirety. The principles of SSI shall be limited only by official laws and regulations that apply in a relevant jurisdiction.
 
 These foundational principles are arranged and grouped under high level topics making is easier for any digital identity ecosystem to adopt and incorporate them. The groups are provided below.
 
-# Agency
+## Agency
 ### Representation 
 An SSI ecosystem shall provide the means for any entity—human, legal, natural, physical or digital—to be represented by any number of digital identities
 ### Delegation
@@ -15,7 +15,7 @@ An SSI ecosystem shall not exclude or discriminate against identity rights holde
 ### Usability, Accessibility & Consistency
 An SSI ecosystem shall maximize usability and accessibility of agents and other SSI components for identity rights holders, including consistency of user experience.
 
-# Control
+## Control
 ### Participation
 An SSI ecosystem shall not require an identity rights holder to participate.
 
@@ -28,7 +28,7 @@ An SSI ecosystem shall enable digital identity data for an entity to be represen
 An SSI ecosystem shall not restrict the ability of identity rights holders to move or transfer a copy of their digital identity data to the agents or systems of their choice.
 
 
-# Protection
+## Protection
 ### Security
 An SSI ecosystem shall empower identity rights holders to secure their digital identity data at rest and in motion, to control their own identifiers and encryption keys, and to employ end-to-end encryption for all interactions.
 ### Verifiability & Authenticity
@@ -43,10 +43,10 @@ An SSI ecosystem shall empower identity rights holders and all other stakeholder
 
 
 
-*This work is licensed under [​Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)*
+**This work is licensed under [​Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)**
 
-*This document is maintained by the ​[Sovrin Foundation](https://sovrin.org/)​ and has been approved by the Sovrin Board of Trustees forinclusion in the Sovrin Utility Governance Framework and the Sovrin Ecosystem Governance Framework.
-*
+**This document is maintained by the ​[Sovrin Foundation](https://sovrin.org/)​ and has been approved by the Sovrin Board of Trustees forinclusion in the Sovrin Utility Governance Framework and the Sovrin Ecosystem Governance Framework.**
+
 
 *We invite you to contribute any comments or suggestions to the version of the document maintained [here](https://github.com/sovrin-foundation/possi).*
 
