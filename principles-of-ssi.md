@@ -4,6 +4,8 @@ These foundational principles of SSI are intended for use by any digital identit
 
 These foundational principles are arranged and grouped under high level topics making is easier for any digital identity ecosystem to adopt and incorporate them. The groups are provided below.
 
+![The Principles of SSI organized into groups](https://github.com/sovrin-foundation/possi/blob/main/Grouped-Principles-of-SSI.png "The Principles of SSI")
+
 ## Agency
 ### Representation 
 An SSI ecosystem shall provide the means for any entity—human, legal, natural, physical or digital—to be represented by any number of digital identities
