@@ -40,7 +40,9 @@ An SSI ecosystem shall empower identity rights holders to provide verifiable pro
 An SSI ecosystem shall empower identity rights holders to protect the privacy of their digital identity data and to share the minimum digital identity data required for any particular interaction.
 
 ### Transparency
-An SSI ecosystem shall empower identity rights holders and all other stakeholders to easily access and verify information necessary to understand the incentives, rules, policies, and algorithms under which agents and other components of SSI ecosystems operate.*This document was developed by members of the global SSI community as convened by the [Sovrin Foundation](https://sovrin.org/) as a steward of these Principles.*
+An SSI ecosystem shall empower identity rights holders and all other stakeholders to easily access and verify information necessary to understand the incentives, rules, policies, and algorithms under which agents and other components of SSI ecosystems operate.
+
+*This document was developed by members of the global SSI community as convened by the [Sovrin Foundation](https://sovrin.org/) as a steward of these Principles.*
 
 
 
