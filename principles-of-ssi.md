@@ -49,7 +49,7 @@ An SSI ecosystem shall empower identity rights holders and all other stakeholder
 
 **This work is licensed under [​Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)**
 
-**This document is maintained by the ​[Sovrin Foundation](https://sovrin.org/)​ and has been approved by the Sovrin Board of Trustees forinclusion in the Sovrin Utility Governance Framework and the Sovrin Ecosystem Governance Framework.**
+**This document is maintained by the ​[Sovrin Foundation](https://sovrin.org/)​ and has been approved by the Sovrin Board of Trustees for inclusion in the Sovrin Utility Governance Framework and the Sovrin Ecosystem Governance Framework.**
 
 
 *We invite you to contribute any comments or suggestions to the version of the document maintained [here](https://github.com/sovrin-foundation/possi).*
