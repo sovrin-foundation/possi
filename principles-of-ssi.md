@@ -1,4 +1,4 @@
-# The Principles of SSI
+# The Principles of SSI V3
 
 These foundational principles of SSI are intended for use by any digital identity ecosystem. Any organization is welcomed to incorporate these principles into its digital identity ecosystem governance framework provided they are included in their entirety. The principles of SSI shall be limited only by official laws and regulations that apply in a relevant jurisdiction.
 
