@@ -17,7 +17,7 @@ An SSI ecosystem shall not exclude or discriminate against identity rights holde
 ### Usability, Accessibility & Consistency
 An SSI ecosystem shall maximize usability and accessibility of agents and other SSI components for identity rights holders, including consistency of user experience.
 
-## Control
+## Autonomy
 ### Participation
 An SSI ecosystem shall not require an identity rights holder to participate.
 
