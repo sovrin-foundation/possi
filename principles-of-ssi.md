@@ -4,7 +4,7 @@ These foundational principles of SSI are intended for use by any digital identit
 
 These foundational principles are arranged and grouped under high level topics making is easier for any digital identity ecosystem to adopt and incorporate them. The groups are provided below.
 
-![The Principles of SSI organized into groups](https://github.com/sovrin-foundation/possi/blob/main/Grouped-Principles-of-SSI.png "The Principles of SSI")
+![The Principles of SSI organized into groups](https://github.com/sovrin-foundation/possi/12_principles_V3_300ppi_ENGLISH.png "The Principles of SSI V3")
 
 ## Agency
 ### Representation 
