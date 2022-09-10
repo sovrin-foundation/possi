@@ -30,7 +30,7 @@ An SSI ecosystem shall enable digital identity data for an entity to be represen
 An SSI ecosystem shall not restrict the ability of identity rights holders to move or transfer a copy of their digital identity data to the agents or systems of their choice.
 
 
-## Protection
+## Integrity
 ### Security
 An SSI ecosystem shall empower identity rights holders to secure their digital identity data at rest and in motion, to control their own identifiers and encryption keys, and to employ end-to-end encryption for all interactions.
 ### Verifiability & Authenticity
