@@ -10,5 +10,5 @@ The authors for the Principles of SSI v3.0 document include the following
 
 The repository contains the following files
 
-* Authors
-* Principles of SSI
+* [Authors](https://github.com/sovrin-foundation/possi/blob/main/Authors.md)
+* [Principles of SSI](https://github.com/sovrin-foundation/possi/blob/main/principles-of-ssi.md)
